@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou o Pedro Arthur!
 - 🧠 Atualmente estou estudando Kotlin e PHP. 
 - ✏ Minha formação acadêmica, no momento, é técnico em informática. 
-- 📩 Contate-me no email: pedroarthuralvesdeoliveira1@gmail.com 
  
 <div align="center">
   <a href="https://github.com/lahat-herev">
