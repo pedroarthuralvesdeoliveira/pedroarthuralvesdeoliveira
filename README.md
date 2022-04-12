@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Pedro Arthur!
 - 🧠 Atualmente estou estudando PHP. 
 - ✏ Minha formação acadêmica, no momento, é técnico em informática. 
--  Estou cursando bacharelado em Sistemas de Informação. 
+- 🚀  Estou cursando tecnólogo em análise e desenvolvimento de sistemas no Instituto Federal do Paraná. 
  
 <div align="center">
   <a href="https://github.com/lahat-herev">
