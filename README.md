@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Pedro Arthur!
-- 🧠 Atualmente estou estudando PHP. 
-- ✏ Minha formação acadêmica, no momento, é técnico em informática. 
+- 🧠 Atualmente estou estudando PHP, e estou interessado em estudar C#, Go e Ruby. 
+- ✏ Minha formação acadêmica, no momento, é técnico em informática pelo Instituto Federal do Paraná. 
 - 🚀  Estou cursando tecnólogo em análise e desenvolvimento de sistemas no Instituto Federal do Paraná. 
  
 <div align="center">
