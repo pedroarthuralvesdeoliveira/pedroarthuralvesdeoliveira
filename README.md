@@ -1,7 +1,8 @@
 ## 👋 Olá, eu sou o Pedro Arthur!
-- 🧠 Atualmente estou estudando PHP, e estou interessado em estudar C#, Go e Ruby. 
+- 🧠 Atualmente estou estudando C#, e estou interessado em estudar Elixir, Go e Ruby. 
 - ✏ Minha formação acadêmica, no momento, é técnico em informática pelo Instituto Federal do Paraná. 
 - 🚀  Estou cursando tecnologia em análise e desenvolvimento de sistemas no Instituto Federal do Paraná. 
+- 🖥 Sou estagiário como desenvolvedor C# em uma empresa local. 
  
 <div align="center">
   <a href="https://github.com/lahat-herev">
