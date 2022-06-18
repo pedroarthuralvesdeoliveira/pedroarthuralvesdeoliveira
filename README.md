@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou o Pedro Arthur!
-- 🧠 Atualmente estou estudando C#, e estou interessado em estudar Elixir, Go e Ruby. 
+- 🧠 Atualmente estou estudando C#, e tenho interesse em estudar Elixir, Go e Ruby. 
 - ✏ Minha formação acadêmica, no momento, é técnico em informática pelo Instituto Federal do Paraná. 
 - 🚀  Estou cursando tecnologia em análise e desenvolvimento de sistemas no Instituto Federal do Paraná. 
 - 🖥 Sou estagiário como desenvolvedor C# em uma empresa local. 
