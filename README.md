@@ -4,7 +4,7 @@ Hi 👋 My name is Pedro Arthur
 Junior C# Developer
 -------------------
 
-Systems Analysis and Development Student, working mostly with C#, JavaScript, HTML, CSS and Bootstrap. I love to read sci-fi books and to play the violin.
+Systems Analysis and Development Student, working with C#, JavaScript, HTML, CSS and Bootstrap. I love to read sci-fi books and to play the violin.
 
 * 🌍  I'm based in Foz do Iguaçu, Paraná - Brasil
 * ✉️  You can contact me at [pedroarthuralvesdeoliveira@hotmail.com](mailto:pedroarthuralvesdeoliveira@hotmail.com)
