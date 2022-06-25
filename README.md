@@ -7,7 +7,7 @@ Junior C# Developer
 Systems Analysis and Development Student, working with C#, JavaScript, HTML, CSS and Bootstrap. I love to read sci-fi books and to play the violin.
 
 * 🌍  I'm based in Foz do Iguaçu, Paraná - Brasil
-* ✉️  You can contact me at [pedroarthuralvesdeoliveira@hotmail.com](mailto:pedroarthuralvesdeoliveira@hotmail.com)
+* ✉️  You can contact me at [pedroarthuralvesdeoliveira@hotmail.com](mailto:pedroarthuralvesdeoliveira@hotmail.com) or [pedroarthuralvesdeoliveira1@gmail.com](mailto:pedroarthuralvesdeoliveira1@gmail.com)
 * 🚀  I'm currently working on [RP Smart](http://rpsmart.com.br/)
 * 🧠  I'm learning C# and JavaScript
 * 🤝  I'm open to collaborating on NGOs or cool anime projects
