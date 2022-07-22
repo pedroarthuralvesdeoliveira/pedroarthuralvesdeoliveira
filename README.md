@@ -11,7 +11,7 @@ Systems Analysis and Development student, working with Bootstrap, CSS, C#, HTML,
 * 🚀  I'm currently working on [RP Smart](http://rpsmart.com.br/)
 * 🧠  I'm learning C# and JavaScript
 * 🤝  I'm open to collaborating on NGOs or cool anime projects
-* ⚡  I (love but) don't know how to play LOL
+* ⚡  I like to listen to music
 
 ### Skills
 
