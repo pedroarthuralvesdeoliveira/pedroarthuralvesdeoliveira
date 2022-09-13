@@ -9,7 +9,7 @@ Systems Analysis and Development student, working with Bootstrap, CSS, C#, HTML,
 * 🌍  I'm based in Foz do Iguaçu, Paraná - Brasil
 * ✉️  You can contact me at [pedroarthuralvesdeoliveira@hotmail.com](mailto:pedroarthuralvesdeoliveira@hotmail.com) or [pedroarthuralvesdeoliveira1@gmail.com](mailto:pedroarthuralvesdeoliveira1@gmail.com)
 * 🚀  I'm currently working on [RP Smart](http://rpsmart.com.br/)
-* 🧠  I'm learning C# and JavaScript
+* 🧠  I'm learning C# and its .NET ecosystem, Entity Framework and JavaScript
 * 🤝  I'm open to collaborating on NGOs or cool anime projects
 * ⚡  I like to listen to music
 
