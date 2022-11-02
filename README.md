@@ -6,7 +6,7 @@ Junior C# Developer
 
 Systems Analysis and Development student, working with Bootstrap, CSS, C#, Entity Framework, HTML, JavaScript, Jquery, Razor Pages and SQL Server. 
 
-* 🌍  I'm based in Foz do Iguaçu, Paraná - Brasil
+* 🌍  I'm based in Santa Terezinha de Itaipu, Paraná - Brasil
 * ✉️  You can contact me at [pedroarthuralvesdeoliveira@hotmail.com](mailto:pedroarthuralvesdeoliveira@hotmail.com) or [pedroarthuralvesdeoliveira1@gmail.com](mailto:pedroarthuralvesdeoliveira1@gmail.com)
 * 🚀  I'm currently working on [RP Smart](http://rpsmart.com.br/)
 * 🧠  I'm learning C# and its .NET ecosystem, Entity Framework and JavaScript
