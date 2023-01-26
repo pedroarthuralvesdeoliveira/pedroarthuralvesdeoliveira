@@ -48,4 +48,4 @@ Systems Analysis and Development student, working with Bootstrap, CSS, C#, Entit
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lahat-herev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lahat-herev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/pedroarthuralvesdeoliveira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroarthuralvesdeoliveira&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
