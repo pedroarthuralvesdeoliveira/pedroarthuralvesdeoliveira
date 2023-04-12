@@ -1,13 +1,13 @@
 Hi 👋 My name is Pedro Arthur
 =============================
 
-Junior C# Developer
+Junior Software Developer
 -------------------
 
 Systems Analysis and Development student, working with Bootstrap, CSS, C#, Entity Framework, HTML, JavaScript, Jquery, Razor Pages and SQL Server. 
 
 * 🌍  I'm based in Santa Terezinha de Itaipu, Paraná - Brasil
-* 🚀  I'm currently working on [RP Smart](http://rpsmart.com.br/)
+* 🚀  I'm currently working on some freelas
 * 🧠  I'm learning C# and its .NET ecosystem, Entity Framework and JavaScript
 * 🤝  I'm open to collaborating on NGOs or cool anime projects
 * ⚡  I like to listen to music
