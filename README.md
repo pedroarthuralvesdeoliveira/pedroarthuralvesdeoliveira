@@ -1,10 +1,10 @@
 Hi 👋 My name is Pedro Arthur
 =============================
 
-Junior Software Developer
+I am a Software Developer
 -------------------
 
-Systems Analysis and Development student, working with Bootstrap, CSS, C#, Entity Framework, HTML, JavaScript, Jquery, Razor Pages and SQL Server. 
+Systems Analysis and Development student, working with Bootstrap, CSS, C#, Entity Framework, HTML, JavaScript, Jquery, NodeJS, PostgreSQ, Razor Pages, SQL Server and SolidJS. 
 
 * 🌍  I'm based in Santa Terezinha de Itaipu, Paraná - Brasil
 * 🚀  I'm currently working on some freelas
