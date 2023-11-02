@@ -37,8 +37,8 @@ Systems Analysis and Development student, working with Bootstrap, CSS, C#, Entit
 ### Socials
 
 <p align="left"> 
-  <a href="https://discord.com/users/Pedro Arthur#6711" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/pedroarthuraloliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://discord.com/users/pedroarthuralvesdeoliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+  <!-- <a href="http://www.instagram.com/pedroarthuraloliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> -->
   <a href="https://www.linkedin.com/in/pedroarthuralves/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.twitch.tv/glimmeer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
