@@ -6,7 +6,6 @@ I am a Software Developer
 
 Systems Analysis and Development student, working with Bootstrap, CSS, C#, Entity Framework, HTML, JavaScript, Jquery, NodeJS, PostgreSQ, Razor Pages, SQL Server and SolidJS. 
 
-* 🌍  I'm based in Santa Terezinha de Itaipu, Paraná - Brasil
 * 🚀  I'm currently working as a backend developer
 * 🧠  I'm learning C# and its .NET ecosystem, Entity Framework and JavaScript
 * 🤝  I'm open to collaborating on NGOs or cool anime projects
