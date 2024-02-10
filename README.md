@@ -1,4 +1,4 @@
-Hi 👋 My name is Pedro Arthur
+Hi 👋 My name is Pedro Oliveira
 =============================
 
 I am a Software Developer
