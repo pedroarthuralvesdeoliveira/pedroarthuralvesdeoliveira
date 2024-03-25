@@ -4,7 +4,7 @@ Hi 👋 My name is Pedro Oliveira
 I am a Software Developer
 -------------------
 
-Systems Analysis and Development student, working with Microsoft SSRS, Unisys Linc and SQL Server.   
+I'm working with Microsoft SSRS, Unisys Linc and SQL Server.   
 
 * 🚀  I'm currently working as a backend developer
 * 🧠  I'm learning C# and its .NET ecosystem, Entity Framework and JavaScript
