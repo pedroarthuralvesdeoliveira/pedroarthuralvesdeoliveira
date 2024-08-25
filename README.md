@@ -8,7 +8,7 @@ I'm working with Microsoft SSRS, Unisys Linc and SQL Server.
 
 * 🚀  I'm currently working as a backend developer
 * 🧠  I'm learning C# and its .NET ecosystem, Entity Framework and JavaScript
-* 🤝  I'm open to collaborating on NGOs or cool anime projects
+* 🤝  I'm open to collaborating on NGOs or anything else
 * ⚡  I like to listen to music
 
 ### Skills
