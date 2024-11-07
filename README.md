@@ -16,14 +16,14 @@ I'm working with Microsoft SSRS, Unisys Linc and SQL Server.
   ## Frontend
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,js,jquery,ts,css,bootstrap,tailwind,react,astro,nodejs,graphql,md,pnpm,vite,figma&theme=light" />
+      <img src="https://skillicons.dev/icons?i=html,js,jquery,ts,css,bootstrap,tailwind,react,astro,graphql,md,pnpm,vite,figma&theme=light" />
     </a>
   </p>
   
   ## Backend
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,django,dotnet,express,fastapi,java,kotlin,ktor,spring,py&theme=light" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,express,nodejs,django,fastapi,py,java,kotlin,ktor,spring&theme=light" />
     </a>
   </p>
 
