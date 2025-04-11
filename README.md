@@ -4,10 +4,10 @@ Hi 👋 My name is Pedro Oliveira
 I am a Software Developer
 -------------------
 
-I'm working with Microsoft SSRS, Unisys Linc and SQL Server.   
+I'm working with Excel, Power BI and Oracle Database.   
 
-* 🚀  I'm currently working as a backend developer
-* 🧠  I'm learning C# and its .NET ecosystem, Entity Framework and JavaScript
+* 🚀  I'm currently working as a Analytics Engineer
+* 🧠  I'm learning Power BI
 * 🤝  I'm open to collaborating on NGOs or anything else
 * ⚡  I like to listen to music
 
