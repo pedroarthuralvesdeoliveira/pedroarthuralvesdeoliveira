@@ -32,7 +32,27 @@ I'm working with Excel, Power BI and Oracle Database.
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&theme=light" />
     </a>
+    <a href="#">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="100" height="100" />
+    </a>
   </p>
+
+  ## Data
+  <p align="center">
+      <a href="#">
+      <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
+    </a>
+  <a href="#">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="100" height="100"  />
+    </a>
+   <a href="#">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="100" height="100" />
+    </a>
+    <a href="#">
+        <img src="https://cdn.brandfetch.io/idYamjE8Qv/w/820/h/631/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="100" height="100" />
+    </a>
+  </p>
+    
 
 ### Socials
 
