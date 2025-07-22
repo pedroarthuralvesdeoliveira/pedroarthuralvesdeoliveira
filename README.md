@@ -4,10 +4,10 @@ Hi 👋 My name is Pedro Oliveira
 I am a Software Developer
 -------------------
 
-I'm working with Excel, Power BI and Oracle Database.   
+I'm working with Apache Hop, AWS and Pentaho.   
 
-* 🚀  I'm currently working as a Analytics Engineer
-* 🧠  I'm learning Power BI
+* 🚀  I'm currently working as a Data Engineer
+* 🧠  I'm learning Power Hop & Pentaho
 * 🤝  I'm open to collaborating on NGOs or anything else
 * ⚡  I like to listen to music
 
