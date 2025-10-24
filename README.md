@@ -4,7 +4,7 @@ Hi 👋 My name is Pedro Oliveira
 I am a Software Developer
 -------------------
 
-I'm working with Apache Hop, AWS and Pentaho Data Integration.   
+I'm working with Python, DuckDB and stuff.   
 
 * 🚀  I'm currently working as a Data Engineer
 * 🧠  I'm learning Apache Hop & Pentaho Data Integration
