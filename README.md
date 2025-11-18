@@ -4,7 +4,7 @@ Hi 👋 My name is Pedro Oliveira
 I am a Software Developer
 -------------------
 
-I'm working with Python, DuckDB and stuff.   
+I'm working with Docker, Pandas, Python, Selenium...   
 
 * 🚀  I'm currently working as a Data Engineer
 * 🧠  I'm learning Apache Hop & Pentaho Data Integration
